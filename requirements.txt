@@ -1,0 +1,6 @@
+ultralytics
+gradio
+opencv-python-headless
+Pillow
+requests
+numpy
