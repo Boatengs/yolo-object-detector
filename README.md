@@ -1,4 +1,4 @@
-#  YOLOv8 Object Detector
+# YOLOv8 Object Detector
 
 Real-time object detection using YOLOv8 Large trained on COCO (80 classes).
 Upload any image and detect objects instantly — people, vehicles, animals, food, furniture and more.
