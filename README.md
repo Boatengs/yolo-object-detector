@@ -5,7 +5,7 @@ Upload any image and detect objects instantly — people, vehicles, animals, foo
 
 ## Live Demo
 
-https://huggingface.co/spaces/samboateng190/yolov8-object-detector
+https://huggingface.co/spaces/samurvivor-07/yolov8-object-detector
 
 ## What It Can Detect
 
