@@ -1,6 +1,7 @@
-ultralytics
 gradio
-opencv-python-headless
+transformers
+torch
+torchvision
 Pillow
 requests
 numpy
