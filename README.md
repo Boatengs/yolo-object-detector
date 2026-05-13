@@ -73,3 +73,13 @@ and motivates open-vocabulary models like CLIP and OWL-ViT.
 - Project 3 Medical QA LoRA: https://github.com/Boatengs/medical-qa-lora
 - Project 2 SPORTZBOT RAG: https://github.com/Boatengs/sports-rag-chatbot-
 - Project 1 Sentiment Analyzer: https://github.com/Boatengs/sentiment-analyzer
+
+## Upgrade — Grounding DINO
+
+Upgraded from YOLOv8 to Grounding DINO for open-vocabulary object detection.
+
+- Before: YOLOv8 — fixed 80 COCO classes only
+- After: Grounding DINO — detect anything you describe in text
+- 232M parameters
+- Zero-shot — no fine-tuning needed
+- 8 quick presets: Street, Kitchen, Living Room, Space, Animals, Sports, Office, Nature
